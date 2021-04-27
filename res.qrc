@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>pic/ask.png</file>
+        <file>pic/login.jpg</file>
+        <file>pic/back1.jpeg</file>
+        <file>pic/back2.jpg</file>
+        <file>pic/back3.jpg</file>
+        <file>pic/back4.jpg</file>
+        <file>pic/back5.jpg</file>
+        <file>pic/back6.jpg</file>
+        <file>pic/bak.jpg</file>
+    </qresource>
+</RCC>
